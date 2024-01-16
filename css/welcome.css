@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(244, 246, 247);
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    line-height: 25px;
+}
+span{
+    text-decoration: underline;
+}
+h1{
+    position: sticky;
+    color: darkcyan;
+    font-family: 'Sacramento', cursive;
+    line-height: 1.5;
+    font-size: 3rem;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+h2{
+    position: sticky;
+    font-weight: normal;
+    color: darkcyan; 
+    margin-top: 0px;
+    margin-bottom: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    position: sticky;
+    font-family: 'Montserrat', sans-serif;
+}
+.topbar{
+
+    position: fixed;
+    top: 0%;
+    background-color: #66BFBF;
+    height: 50px;
+    width: 100%;
+}
+.topbar:hover{
+     background-color: darkcyan;
+}
+.maindiv{
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+.cloudone{
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    width: 100px;
+}
+.cloudtwo{
+    height: 50px;
+    position: absolute;
+    width: 100px;
+}
+.mountain{
+    width: 80%;
+    height: auto;
+}
